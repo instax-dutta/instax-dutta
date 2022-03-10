@@ -14,6 +14,8 @@ My name is Abhishek Dash am a Coder/Enterprenuer/CryptoCurrency Enthusiast.I'm P
   <a href="https://github.com/instax-dutta/Miner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=instax-dutta&repo=Miner&theme=midnight_puple" />
 </a>
+</center>
+
 ## Contacts
- ![](https://dcbadge.vercel.app/api/shield/786451968469368853)
+![](https://dcbadge.vercel.app/api/shield/786451968469368853)
 
