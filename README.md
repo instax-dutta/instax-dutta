@@ -1,3 +1,5 @@
+
+
 <center>
 <a href="https://github.com/instax-dutta">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=instax-dutta&count_private=true&show_icons=true&theme=midnight-purple" />
@@ -5,4 +7,10 @@
 <a href="https://github.com/instax-dutta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&layout=compact&theme=midnight-purple" />
 </a>
+  
+<h3>Featured repo</h3>
+  <a href="https://github.com/instax-dutta/Miner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=instax-dutta&repo=github-readme-stats&theme=midnight_puple" />
+</a>
+  
 </center>
