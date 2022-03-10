@@ -1,7 +1,4 @@
-Hello there this is RACEROP 
-From India
-A CryptoCurrency Enthusiast
-And Tech Geek !
+# Hello, folks!
 ## &#x1f4c8; GitHub Stats
 <center>
 <a href="https://github.com/instax-dutta">
