@@ -2,7 +2,7 @@ Hello there this is RACEROP
 From India
 A CryptoCurrency Enthusiast
 And Tech Geek !
-##Some Stats Abt my Github !
+## 🔧Some Stats Abt my Github !
 <center>
 <a href="https://github.com/instax-dutta">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=instax-dutta&count_private=true&show_icons=true&theme=midnight-purple" />
