@@ -3,7 +3,7 @@ My name is Abhishek Dash am a Coder, Enterprenuer,CryptoCurrency Enthusiast. I'm
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Expertises
-### 3776AB 
+## &#3776AB 
 ## &#x1f4c8; GitHub Stats
 <center>
 <a href="https://github.com/instax-dutta">
