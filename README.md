@@ -10,7 +10,7 @@
   
 <h3>Featured repo</h3>
   <a href="https://github.com/instax-dutta/Miner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=instax-dutta&repo=github-readme-stats&theme=midnight_puple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=instax-dutta&repo=Miner&theme=midnight_puple" />
 </a>
   
 </center>
