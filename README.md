@@ -23,7 +23,7 @@ My name is Abhishek Dash am a Coder, Entrepreneur,CryptoCurrency Enthusiast. I'm
 <a href="https://github.com/instax-dutta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&layout=compact&theme=midnight-purple" />
 </a>
- </center> 
+</center> 
 ## ⭐ Featured Repos 
   <a href="https://github.com/instax-dutta/Miner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=instax-dutta&repo=Miner&theme=midnight_puple" />
