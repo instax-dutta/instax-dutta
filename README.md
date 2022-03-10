@@ -7,8 +7,8 @@ My name is Abhishek Dash am a Coder, Entrepreneur,CryptoCurrency Enthusiast. I'm
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)<br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)<br>
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)<br>
-![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=Google&logoColor=white&color=2bbc8a)<br>
-![](https://img.shields.io/badge/Cloud-amazon-informational?style=flat&logo=amazonwebservices&logoColor=white&color=2bbc8a)<br>
+![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=Googlecloud&logoColor=white&color=2bbc8a)<br>
+![](https://img.shields.io/badge/Cloud-Amazon-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)<br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
