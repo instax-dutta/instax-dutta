@@ -18,5 +18,5 @@ My name is Abhishek Dash am a Coder/Enterprenuer/CryptoCurrency Enthusiast.I'm P
 </center>
 
 ## Contacts
-![](https://dcbadge.vercel.app/api/shield/786451968469368853&?logoColor=presence)
+![](https://dcbadge.vercel.app/api/shield/786451968469368853&theme=default-inverted&?logoColor=presence)
 
