@@ -1,5 +1,5 @@
 # Welcome To My Profile
-My name is Abhishek Dash am a Coder, Enterprenuer,CryptoCurrency Enthusiast. I'm Proeficient in Launguages like JavaScript , Html , CSS , php , Python . I'm from India, living in Odisha.
+My name is Abhishek Dash am a Coder, Entrepreneur,CryptoCurrency Enthusiast. I'm Proeficient in Launguages like JavaScript , Html , css , php , Python . I'm from India, living in Odisha.
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
