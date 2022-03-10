@@ -9,6 +9,7 @@ My name is Abhishek Dash am a Coder, Entrepreneur,CryptoCurrency Enthusiast. I'm
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)<br>
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=Googlecloud&logoColor=white&color=2bbc8a)<br>
 ![](https://img.shields.io/badge/Cloud-Amazon-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)<br>
+![](https://img.shields.io/badge/Panels-Pterodactyl-informational?style=flat&logo=pterodactyl&logoColor=white&color=2bbc8a)<br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
