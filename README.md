@@ -19,6 +19,9 @@
 
 
 ## &#x1f4c8; GitHub Stats
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=KarimX32" alt="visitor badge"/>
+</p>
 
 <a href="https://github.com/instax-dutta">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=instax-dutta&count_private=true&show_icons=true&theme=midnight-purple" />
