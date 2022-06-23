@@ -20,7 +20,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=KarimX32" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=instax-dutta" alt="visitor badge"/>
 </p>
 
 <a href="https://github.com/instax-dutta">
