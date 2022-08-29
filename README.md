@@ -33,6 +33,8 @@
 ## ⭐ Featured Repos 
   <a href="https://github.com/instax-dutta/Miner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=instax-dutta&repo=Miner&theme=midnight_puple" />
+  <a href="https://github.com/instax-dutta/Ultimate-Firewall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=instax-dutta&repo=Ultimate-Firewall&theme=midnight_puple" />
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
