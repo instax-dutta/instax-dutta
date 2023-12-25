@@ -18,9 +18,10 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-
 ## &#x1f4c8; GitHub Stats
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=instax-dutta.instax-dutta)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=instax-dutta.instax-dutta" alt="visitors" />
+</div>
 
 <a href="https://github.com/instax-dutta">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=instax-dutta&count_private=true&show_icons=true&theme=midnight-purple" />
