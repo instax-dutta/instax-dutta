@@ -20,6 +20,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=instax-dutta.instax-dutta)
 
 <a href="https://github.com/instax-dutta">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=instax-dutta&count_private=true&show_icons=true&theme=midnight-purple" />
