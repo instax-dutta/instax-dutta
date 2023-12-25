@@ -21,7 +21,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=instax-dutta" alt="visitor badge"/>
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=instax-dutta)
 </p>
 
 <a href="https://github.com/instax-dutta">
