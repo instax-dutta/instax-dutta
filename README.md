@@ -1,7 +1,7 @@
-# Hey There !! ;)
-<h2>My name is Abhishek Dash am a Coder, Entrepreneur,CryptoCurrency Enthusiast. I'm from Bhubaneswar , Odisha , India </h2>
+# Well Hello There ! ;)
+<h2>Am Sai Dutta Abhishek Dash am a Coder , Enterprenuer , Linux Geek . I'm from India </h2>
 
-### ✔️ I have expertise in the things listed bellow
+### ✔️ I have expertise in ......
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
