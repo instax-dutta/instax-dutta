@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sai Dutta Abhishek Dash 
+**Sai Dutta Abhishek Dash**<br/> 
 💻 CS student fueled by code.<br/>
 🐧 Linux enthusiast.<br/>
 💡 Aspiring entrepreneur.<br/>
