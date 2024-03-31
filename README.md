@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-💻 CS student fueled by code.
-🐧 Linux enthusiast.
-💡 Aspiring entrepreneur.
-🇮🇳 Proudly based in India.
-⚙️ Systems bow before me.
-💸 Wealth follows my every move.
-😎 I write my own success story.
+💻 CS student fueled by code.<br/>
+🐧 Linux enthusiast.<br/>
+💡 Aspiring entrepreneur.<br/>
+🇮🇳 Proudly based in India.<br/>
+⚙️ Systems bow before me.<br/>
+💸 Wealth follows my every move.<br/>
+😎 I write my own success story.<br/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/XJy7bAYN8r) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rac3r_op) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-dutta-abhishek-dash-3b2383227) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bffsproductionhouse456) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbhishekDash69) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCNraeO_jyWQDOt7HPmZEeTw) 
