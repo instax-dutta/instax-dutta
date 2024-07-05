@@ -1,6 +1,18 @@
-# 💫 About Me:
-Sai Dutta Abhishek Dash<br>👨‍💻 Computer Science Student | Aspiring Entrepreneur | Linux Enthusiast<br><br>🇮🇳 Based in India<br><br>🔧 Passionate about mastering systems and technologies.<br><br>🚀 Driven by innovation and the quest for efficiency.<br><br>💼 ML Enthusiast, Python Developer, and Ex-Startup Founder.<br><br>🌟 I code my own success, with wealth and knowledge as my companions.<br><br>🌐 Exploring the realms of Machine Learning, DevOps, and more.
+# Sai Dutta Abhishek Dash
 
+👨‍💻 Computer Science Student | Machine Learning Enthusiast 🤖 | Python Developer 🐍
+
+🇮🇳 Based in India
+
+## 💫 About Me:
+
+- 🔬 ML Researcher and Tech Innovator 🚀
+- 🧠 Passionate about AI and transforming data into insights 📊
+- 💼 Experienced in various ML roles, focusing on predictive modeling and data analysis
+- 🔧 Skilled in Python, Flask, AWS, Docker, and various ML libraries
+- 🌟 Driven by data-driven solutions and efficiency improvements
+- 🌐 Always exploring new technologies in AI/ML, cloud computing, and software development
+- 📈 Committed to leveraging AI for actionable insights and business growth
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mFWSp38kev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rac3r_op/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sdabhishekdash) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@bffsproductionhouse456) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbhishekDash69) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCNraeO_jyWQDOt7HPmZEeTw) 
