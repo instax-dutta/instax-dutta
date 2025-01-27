@@ -3,6 +3,7 @@
 👨‍💻 Computer Science Student | Machine Learning Enthusiast 🤖 | Python Developer 🐍
 
 🇮🇳 Based in India
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sdad.pro)
 
 ## 💫 About Me:
 
