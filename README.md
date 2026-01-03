@@ -355,18 +355,30 @@ Crafting high-performance web & software experiences that drive results. From st
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=instax-dutta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=instax-dutta&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
+<a href="https://github.com/instax-dutta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=instax-dutta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=instax-dutta&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" alt="Activity Graph"/>
+<a href="https://github.com/instax-dutta">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=instax-dutta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+<a href="https://github.com/instax-dutta">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=instax-dutta&theme=tokyonight" alt="Profile Summary"/>
+</a>
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&cache_seconds=1800" alt="GitHub Trophies"/>
+<a href="https://github.com/instax-dutta">
+  <img src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</a>
 
-### 📈 Top Languages
+### 📈 Contribution Graph
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+<a href="https://github.com/instax-dutta">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=instax-dutta&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</a>
 
 </div>
 
