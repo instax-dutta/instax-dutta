@@ -1,48 +1,318 @@
-# Sai Dutta Abhishek Dash
+<div align="center">
 
-👨‍💻 Computer Science Student | Machine Learning Enthusiast 🤖 | Python Developer 🐍
+# 👋 Hey there! I'm Sai Dutta Abhishek Dash
 
-🇮🇳 Based in India
+### 🚀 Full Stack Developer | 🤖 AI/ML Engineer | 🔒 Security Expert
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sdad.pro)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions;Zero-Knowledge+Encryption+Expert;AWS+Certified+Cloud+Practitioner;20%2B+Production+Apps+Built" alt="Typing SVG" />
 
-## 💫 About Me:
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sdad.pro-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sdad.pro)
+[![Email](https://img.shields.io/badge/📧_Email-contact%40sdad.pro-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sdad.pro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdabhishekdash)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishekdash69)
 
-- 🔬 ML Researcher and Tech Innovator 🚀
-- 🧠 Passionate about AI and transforming data into insights 📊
-- 💼 Experienced in various ML roles, focusing on predictive modeling and data analysis
-- 🔧 Skilled in Python, Flask, AWS, Docker, and various ML libraries
-- 🌟 Driven by data-driven solutions and efficiency improvements
-- 🌐 Always exploring new technologies in AI/ML, cloud computing, and software development
-- 📈 Committed to leveraging AI for actionable insights and business growth
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mFWSp38kev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rac3r_op/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sdabhishekdash) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@bffsproductionhouse456) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbhishekDash69) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCNraeO_jyWQDOt7HPmZEeTw) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=instax-dutta&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=instax-dutta&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=instax-dutta&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=instax-dutta&icon=6&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sdad) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zeusfield) 
+## 💫 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```typescript
+const saiDutta = {
+    location: "Bhubaneswar, Odisha 🇮🇳",
+    currentRole: "Freelance Full Stack Developer",
+    previousCompany: "Tech Mahindra",
+    education: "B.Tech in Computer Science - GIET University",
+    
+    specialties: [
+        "🤖 AI/ML Engineering",
+        "🔐 Zero-Knowledge Encryption",
+        "☁️ Cloud Architecture (AWS Certified)",
+        "🛡️ Security Engineering",
+        "⚡ Full Stack Development"
+    ],
+    
+    stats: {
+        productionApps: "20+",
+        yearsOfExperience: "3+",
+        companiesWorkedWith: "10+",
+        startupsFoundedAndLed: 1
+    },
+    
+    currentlyBuilding: "Enterprise AI-powered tools",
+    openToWork: true,
+    availableFor: ["Freelance Projects", "Consulting", "Collaborations"]
+};
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & APIs</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask_3-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>💾 Databases & Storage</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Binify - Zero-Knowledge Encrypted Pastebin
+<a href="https://bin.sdad.pro">
+<img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge" alt="Live Demo"/>
+</a>
+
+**Client-side encryption ensures absolute privacy—even we can't read your pastes.**
+
+🛠️ **Stack:**
+- Next.js 15
+- Turso Database
+- Upstash Redis
+- Web Crypto API
+
+⭐ **Key Features:**
+- End-to-end encryption
+- Zero-knowledge architecture
+- Self-destructing pastes
+
+</td>
+<td width="50%">
+
+### 🌐 PacketBuddy - Network Monitor
+<a href="https://github.com/instax-dutta/packet-buddy">
+<img src="https://img.shields.io/badge/🔗_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+**Ultra-lightweight bandwidth monitor with real-time stats and cost tracking.**
+
+🛠️ **Stack:**
+- Python
+- JavaScript
+- NeonDB
+- Chart.js
+
+⭐ **Key Features:**
+- Zero configuration required
+- Real-time bandwidth monitoring
+- Cost tracking & analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 GenieLabs - AI Dev Platform
+<a href="https://genielabs.sdad.pro">
+<img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge" alt="Live Demo"/>
+</a>
+
+**AI-powered platform for code generation, analysis, and optimization.**
+
+🛠️ **Stack:**
+- Next.js 14
+- TypeScript 5
+- AI Agent Integration
+
+⭐ **Key Features:**
+- Intelligent code generation
+- Real-time code analysis
+- Performance optimization
+
+</td>
+<td width="50%">
+
+### 🛡️ VullScanny - Security Scanner
+<a href="https://vullscanny.sdad.pro">
+<img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge" alt="Live Demo"/>
+</a>
+
+**AI-powered security vulnerability scanner with instant analysis.**
+
+🛠️ **Stack:**
+- Next.js 16
+- PWA
+- Turbopack
+
+⭐ **Key Features:**
+- Zero-config setup
+- Instant vulnerability reports
+- AI-powered analysis
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Journey
+
+```mermaid
+gantt
+    title Career Timeline
+    dateFormat YYYY-MM
+    section Work Experience
+    CEO & Co-Founder, RacerNodes           :2022-05, 2023-07
+    Python Developer Intern, OctaNet       :2024-06, 2024-07
+    ML Engineer Intern, CodeAlpha          :2024-06, 2024-07
+    Associate Trainee, Tech Mahindra       :2025-05, 2025-06
+    Associate, Tech Mahindra               :2025-06, 2025-09
+    Freelance Full Stack Developer         :2025-09, 2026-01
+```
+
+### 🏆 Key Achievements
+
+- 🚀 **20+ Production-Ready Applications** built and deployed
+- 🎯 **15% Improvement** in ML model prediction accuracy
+- ⚡ **40% Reduction** in manual work through automation
+- 👥 **Led team of 5+** members as CEO of RacerNodes
+- ☁️ **AWS Certified** Cloud Practitioner
+- 🔒 **Enterprise Security** solutions implemented
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=instax-dutta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=instax-dutta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=instax-dutta&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+
+### 📈 Top Languages
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🎓 Certifications & Learning
+
+<details>
+<summary><b>🏅 Click to view all certifications</b></summary>
+<br>
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| 🤖 AWS Bedrock Workshop (Build a Gen AI Chatbot) | Udemy | 2024 |
+| ☁️ AWS Cloud Practitioner | AWS | 2024 |
+| 🔧 Amazon Bedrock Getting Started | AWS | 2024 |
+| 💻 Amazon Q Developer | AWS | 2024 |
+| 🐍 Python 3: Programming beginner to advanced | Udemy | 2024 |
+| 📊 Python For Data Science and Machine Learning | Udemy | 2024 |
+| 🧠 Planning a Machine Learning Project | AWS | 2024 |
+| 📋 Project Management | LearnTube | 2024 |
+
+</details>
+
+---
+
+## 🌟 What I'm Up To
+
+```javascript
+const currentFocus = {
+    learning: ["Advanced AI/ML", "Web3", "Rust"],
+    building: ["12Labs - Enterprise AI Suite", "Open Source Projects"],
+    exploring: ["Zero-Knowledge Proofs", "Edge Computing"],
+    contributing: "Open Source Security Tools"
+};
+```
+
+### 📫 Let's Connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sdad.pro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdabhishekdash)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishekdash69)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/instax-dutta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sdad.pro)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mFWSp38kev)
+
+### 💖 Support My Work
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sdad)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zeusfield)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=40" width="100%"/>
+
+### ⚡ "Building the future, one commit at a time"
+
+![Profile Views](https://komarev.com/ghpvc/?username=instax-dutta&color=00D9FF&style=for-the-badge&label=Profile+Views)
+
+</div>
