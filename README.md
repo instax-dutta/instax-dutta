@@ -78,29 +78,64 @@ const saiDutta = {
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
+<summary><b>🤖 AI/ML & LLMs</b></summary>
 <br>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-181818?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LmStudio](https://img.shields.io/badge/LmStudio-6B46C1?style=for-the-badge&logo=atom&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>📊 ML/Data Science</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & Deployment</b></summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 DevOps & Tools</b></summary>
+<br>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </details>
 
@@ -111,8 +146,12 @@ const saiDutta = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=white)
 ![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Backblaze B2](https://img.shields.io/badge/Backblaze_B2-D6002F?style=for-the-badge&logo=backblaze&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
 
@@ -212,29 +251,50 @@ const saiDutta = {
 
 ---
 
-## 💼 Professional Journey
+## 💼 Experience & Achievements
 
-```mermaid
-gantt
-    title Career Timeline
-    dateFormat YYYY-MM
-    section Work Experience
-    CEO & Co-Founder, RacerNodes           :2022-05, 2023-07
-    Python Developer Intern, OctaNet       :2024-06, 2024-07
-    ML Engineer Intern, CodeAlpha          :2024-06, 2024-07
-    Associate Trainee, Tech Mahindra       :2025-05, 2025-06
-    Associate, Tech Mahindra               :2025-06, 2025-09
-    Freelance Full Stack Developer         :2025-09, 2026-01
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Current Role
+**Freelance Full Stack Developer**  
+*September 2025 - Present*
+
+Building scalable web applications and delivering end-to-end solutions from frontend to backend.
+
+### 💼 Recent Experience
+**Associate** @ Tech Mahindra  
+*June 2025 - September 2025*
+
+Contributed to enterprise software solutions and digital transformation initiatives.
+
+**Associate Trainee** @ Tech Mahindra  
+*May 2025 - June 2025*
+
+Successfully completed training program with quick promotion.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏆 Key Achievements
 
-- 🚀 **20+ Production-Ready Applications** built and deployed
-- 🎯 **15% Improvement** in ML model prediction accuracy
-- ⚡ **40% Reduction** in manual work through automation
-- 👥 **Led team of 5+** members as CEO of RacerNodes
-- ☁️ **AWS Certified** Cloud Practitioner
-- 🔒 **Enterprise Security** solutions implemented
+✨ **20+ Production Apps** deployed and maintained  
+📊 **15% ML Accuracy** improvement in models  
+⚡ **40% Time Saved** through automation scripts  
+👥 **Led 5+ Team Members** as CEO of RacerNodes  
+☁️ **AWS Certified** Cloud Practitioner  
+🔒 **Enterprise Security** solutions implemented
+
+### 💡 Past Roles
+
+**CEO & Co-Founder** @ RacerNodes *(2022-2023)*  
+**ML Engineer Intern** @ CodeAlpha *(2024)*  
+**Python Developer Intern** @ OctaNet *(2024)*
+
+</td>
+</tr>
+</table>
 
 ---
 
