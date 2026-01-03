@@ -19,33 +19,37 @@
 
 ## 💫 About Me
 
-```typescript
-const saiDutta = {
-    location: "Bhubaneswar, Odisha 🇮🇳",
-    currentRole: "Freelance Full Stack Developer",
-    previousCompany: "Tech Mahindra",
-    education: "B.Tech in Computer Science - GIET University",
-    
-    specialties: [
-        "🤖 AI/ML Engineering",
-        "🔐 Zero-Knowledge Encryption",
-        "☁️ Cloud Architecture (AWS Certified)",
-        "🛡️ Security Engineering",
-        "⚡ Full Stack Development"
-    ],
-    
-    stats: {
-        productionApps: "20+",
-        yearsOfExperience: "3+",
-        companiesWorkedWith: "10+",
-        startupsFoundedAndLed: 1
-    },
-    
-    currentlyBuilding: "Enterprise AI-powered tools",
-    openToWork: true,
-    availableFor: ["Freelance Projects", "Consulting", "Collaborations"]
-};
-```
+**Co-Founder & Lead Engineer** at [**Offsage**](https://offsage.com) — building smart engineering solutions for ambitious brands worldwide.
+
+I specialize in crafting **high-performance web applications** and **AI-powered security tools** that drive real business results. From zero-knowledge encryption systems to enterprise SaaS platforms, I transform complex technical challenges into elegant solutions.
+
+### 🎯 What I Do
+
+- 🤖 **AI/ML Engineering** — Building intelligent systems with OpenAI, Claude, Mistral, and Ollama
+- 🔐 **Security Engineering** — Created Aeglyn (VullScanny), an AI-powered security scanner with VulkanorAI engine
+- ☁️ **Cloud Architecture** — AWS Certified Cloud Practitioner designing scalable infrastructure
+- ⚡ **Full Stack Development** — React, Next.js, TypeScript, Python, and modern web technologies
+- 🚀 **Enterprise Solutions** — Delivering production-grade applications for 50+ global teams
+
+### 📊 Track Record
+
+- 📈 **100+ Projects** delivered through Offsage across 15+ countries
+- 🎯 **20+ Production Apps** built with cutting-edge tech stacks
+- ⚡ **3+ Years** of professional development experience
+- 🏆 **AWS Certified** with expertise in scalable cloud solutions
+- 🌍 **50+ Global Teams** served with < 24hr response time
+
+### 🔧 Current Focus
+
+Building **Aeglyn Security Suite** (featuring VullScanny) — a privacy-first AI security scanner that detects vulnerabilities with zero code storage, real-time CVE tracking, and intelligent fix suggestions powered by VulkanorAI.
+
+Also working on enterprise SaaS solutions, AI-powered development tools, and exploring zero-knowledge proofs, edge computing, and advanced threat intelligence.
+
+---
+
+**💼 Open for:** Agency collaborations, enterprise consulting, and innovative project partnerships
+
+**📍 Location:** Bhubaneswar, Odisha, India 🇮🇳
 
 ---
 
@@ -208,6 +212,28 @@ const saiDutta = {
 <tr>
 <td width="50%">
 
+### 🛡️ Aeglyn (VullScanny) - AI Security Suite
+<a href="https://vullscanny.sdad.pro">
+<img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge" alt="Live Demo"/>
+</a>
+
+**AI-powered security scanner with VulkanorAI engine for React apps.**
+
+🛠️ **Stack:**
+- Next.js 16
+- VulkanorAI Engine
+- GitHub Integration
+- PWA
+
+⭐ **Key Features:**
+- Privacy-first scanning (zero storage)
+- Real-time CVE tracking
+- AI-powered fix suggestions
+- Batch repository scanning
+
+</td>
+<td width="50%">
+
 ### 🧠 GenieLabs - AI Dev Platform
 <a href="https://genielabs.sdad.pro">
 <img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge" alt="Live Demo"/>
@@ -223,27 +249,52 @@ const saiDutta = {
 ⭐ **Key Features:**
 - Intelligent code generation
 - Real-time code analysis
-- Performance optimization
+- +200% productivity boost
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📦 Sensory - Cloud Storage
+<a href="https://mirror.sdad.pro">
+<img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge" alt="Live Demo"/>
+</a>
+
+**Decentralized file hosting on mirror grid with hyperscale capabilities.**
+
+🛠️ **Stack:**
+- Next.js 15
+- Backblaze B2
+- Turso
+- Upstash Redis
+
+⭐ **Key Features:**
+- Instant shareable links
+- Batch upload support
+- Advanced rate limiting
 
 </td>
 <td width="50%">
 
-### 🛡️ VullScanny - Security Scanner
-<a href="https://vullscanny.sdad.pro">
-<img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge" alt="Live Demo"/>
+### 🏢 Offsage Portfolio
+<a href="https://offsage.com">
+<img src="https://img.shields.io/badge/🔗_Visit_Agency-00D9FF?style=for-the-badge" alt="Visit Agency"/>
 </a>
 
-**AI-powered security vulnerability scanner with instant analysis.**
+**Smart Engineering agency serving 50+ global teams.**
 
 🛠️ **Stack:**
-- Next.js 16
-- PWA
-- Turbopack
+- Next.js 15
+- TypeScript
+- Framer Motion
+- Tailwind CSS
 
-⭐ **Key Features:**
-- Zero-config setup
-- Instant vulnerability reports
-- AI-powered analysis
+⭐ **Services:**
+- Enterprise SaaS development
+- AI-powered web apps
+- SEO & digital marketing
 
 </td>
 </tr>
@@ -258,36 +309,38 @@ const saiDutta = {
 <td width="50%" valign="top">
 
 ### 🚀 Current Role
-**Freelance Full Stack Developer**  
-*September 2025 - Present*
+**Co-Founder & Lead Engineer** @ [Offsage](https://offsage.com)  
+*Building Smart Engineering Solutions for Ambitious Brands*
 
-Building scalable web applications and delivering end-to-end solutions from frontend to backend.
+Crafting high-performance web & software experiences that drive results. From stunning landing pages to enterprise SaaS platforms—transforming visions into reality.
 
-### 💼 Recent Experience
-**Associate** @ Tech Mahindra  
-*June 2025 - September 2025*
+**Services:**
+- 🌐 Web Development & Design
+- 💼 Enterprise SaaS Solutions
+- 🚀 SEO & Digital Growth
+- 🎥 Content Creation
 
-Contributed to enterprise software solutions and digital transformation initiatives.
-
-**Associate Trainee** @ Tech Mahindra  
-*May 2025 - June 2025*
-
-Successfully completed training program with quick promotion.
+**Recent Achievements:**
+- 🌍 Serving 50+ global teams across 15+ countries
+- ⚡ 2-4 week average delivery time
+- 📈 Built on bleeding-edge tech stack
+- 🎯 < 24hrs response time
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏆 Key Achievements
 
-✨ **20+ Production Apps** deployed and maintained  
+✨ **100+ Projects** delivered through Offsage  
 📊 **15% ML Accuracy** improvement in models  
 ⚡ **40% Time Saved** through automation scripts  
-👥 **Led 5+ Team Members** as CEO of RacerNodes  
 ☁️ **AWS Certified** Cloud Practitioner  
-🔒 **Enterprise Security** solutions implemented
+🔒 **Enterprise Security** solutions implemented  
+🚀 **50+ Global Teams** served successfully
 
-### 💡 Past Roles
+### 💡 Past Experience
 
+**Associate** @ Tech Mahindra *(2025)*  
 **CEO & Co-Founder** @ RacerNodes *(2022-2023)*  
 **ML Engineer Intern** @ CodeAlpha *(2024)*  
 **Python Developer Intern** @ OctaNet *(2024)*
@@ -302,18 +355,18 @@ Successfully completed training program with quick promotion.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=instax-dutta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=instax-dutta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=instax-dutta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=instax-dutta&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=instax-dutta&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=instax-dutta&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" alt="Activity Graph"/>
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&cache_seconds=1800" alt="GitHub Trophies"/>
 
 ### 📈 Top Languages
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
@@ -344,10 +397,15 @@ Successfully completed training program with quick promotion.
 
 ```javascript
 const currentFocus = {
-    learning: ["Advanced AI/ML", "Web3", "Rust"],
-    building: ["12Labs - Enterprise AI Suite", "Open Source Projects"],
-    exploring: ["Zero-Knowledge Proofs", "Edge Computing"],
-    contributing: "Open Source Security Tools"
+    agency: "Offsage - Building for 50+ global teams",
+    learning: ["Advanced AI/ML", "Web3", "Rust", "Zero-Day Detection"],
+    building: [
+        "Aeglyn Security Suite (VullScanny + more tools)",
+        "Enterprise SaaS Solutions",
+        "AI-Powered Web Experiences"
+    ],
+    exploring: ["Zero-Knowledge Proofs", "Edge Computing", "AI Agents", "CVE Tracking"],
+    contributing: "Open Source Security & AI Tools"
 };
 ```
 
