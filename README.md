@@ -12,6 +12,7 @@
 [![Email](https://img.shields.io/badge/📧_contact@sdad.pro-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sdad.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdabhishekdash)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishekdash69)
+[![Ollama](https://img.shields.io/badge/Ollama-R4C3R-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/R4C3R)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
@@ -184,13 +185,15 @@ const sdad = {
 <div align="center">
 
 <!-- Row 1: Stats + Top Languages -->
+<!-- NOTE: Replace YOUR-VERCEL-APP below once you self-host github-readme-stats (takes 5 min, free) -->
+<!-- Self-host guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
 <table width="100%">
   <tr>
     <td width="55%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=instax-dutta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats — Sai Dutta Abhishek Dash"/>
+      <img src="https://github-readme-stats-indol-phi-79.vercel.app/api?username=instax-dutta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats — Sai Dutta Abhishek Dash"/>
     </td>
     <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages — instax-dutta"/>
+      <img src="https://github-readme-stats-indol-phi-79.vercel.app/api/top-langs/?username=instax-dutta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages — instax-dutta"/>
     </td>
   </tr>
 </table>
@@ -217,7 +220,7 @@ const sdad = {
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=instax-dutta&theme=tokyonight" alt="GitHub Profile Summary — Sai Dutta Abhishek Dash"/>
 
 <!-- Row 5: Trophies — full width -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="GitHub Trophies — instax-dutta"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-bg=true&no-frame=false&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies — instax-dutta"/>
 
 <!-- Row 6: Contribution Graph — full width -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=instax-dutta&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20instax-dutta&area=true" alt="Contribution Graph — instax-dutta"/>
@@ -241,6 +244,7 @@ const sdad = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdabhishekdash)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishekdash69)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/R4C3R)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/instax-dutta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sdad.pro)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mFWSp38kev)
