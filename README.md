@@ -219,12 +219,12 @@ const sdad = {
 <!-- Row 4: Profile Details — full width -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=instax-dutta&theme=tokyonight" alt="GitHub Profile Summary — Sai Dutta Abhishek Dash"/>
 
-<!-- Row 5: Trophies — natural width centered (width=100% breaks fixed SVG viewBox) -->
+
+<!-- Row 5: Trophies — self-hosted -->
 <a href="https://github.com/instax-dutta">
-  <img src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies — instax-dutta"/>
+  <img src="https://github-profile-trophy-lovat-phi.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies — instax-dutta"/>
 </a>
 
-<!-- Row 6: Contribution Graph — full width -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=instax-dutta&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20instax-dutta&area=true" alt="Contribution Graph — instax-dutta"/>
 
 </div>
