@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · AI/ML Engineer · Security Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Building+AI-Powered+Web+Experiences;Zero-Knowledge+Encryption+Expert;AWS+Certified+Cloud+Practitioner;Co-Founder+%40+Offsage+%7C+100%2B+Projects+Delivered" alt="Sai Dutta Abhishek Dash - Full Stack Developer AI ML Engineer Security Expert" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Web+Experiences;Zero-Knowledge+Encryption+Expert;AWS+Certified+Cloud+Practitioner;Co-Founder+%40+Offsage;100%2B+Projects+%7C+15%2B+Countries" alt="Sai Dutta Abhishek Dash - Full Stack Developer AI ML Engineer Security Expert" />
 
 > **Full Stack Developer & AI/ML Engineer from India** — Co-Founder at Offsage, building high-performance web applications, AI-powered security tools, and enterprise SaaS platforms for teams across 15+ countries.
 
