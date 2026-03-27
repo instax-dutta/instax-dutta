@@ -63,7 +63,7 @@ const sdad = {
   agency:   "https://offsage.com",        // ← Engineering agency for ambitious brands
 
   currentlyBuilding: [
-    "Aeglyn Security Suite — privacy-first AI vulnerability scanner (VulkanorAI engine)",
+    "AI-powered security scanner with privacy-first architecture",
     "Enterprise SaaS platforms for global clients",
     "AI-powered developer tooling & automation"
   ],
@@ -187,7 +187,7 @@ const sdad = {
 <table width="100%">
   <tr>
     <td width="55%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=instax-dutta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats — Sai Dutta Abhishek Dash"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=instax-dutta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats — Sai Dutta Abhishek Dash"/>
     </td>
     <td width="45%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages — instax-dutta"/>
