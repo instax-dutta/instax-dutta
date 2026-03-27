@@ -14,7 +14,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishekdash69)
 [![Ollama](https://img.shields.io/badge/Ollama-R4C3R-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/R4C3R)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
@@ -219,8 +219,10 @@ const sdad = {
 <!-- Row 4: Profile Details — full width -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=instax-dutta&theme=tokyonight" alt="GitHub Profile Summary — Sai Dutta Abhishek Dash"/>
 
-<!-- Row 5: Trophies — full width -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-bg=true&no-frame=false&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies — instax-dutta"/>
+<!-- Row 5: Trophies — natural width centered (width=100% breaks fixed SVG viewBox) -->
+<a href="https://github.com/instax-dutta">
+  <img src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies — instax-dutta"/>
+</a>
 
 <!-- Row 6: Contribution Graph — full width -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=instax-dutta&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20instax-dutta&area=true" alt="Contribution Graph — instax-dutta"/>
