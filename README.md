@@ -163,17 +163,6 @@ const sdad = {
 
 ---
 
-## Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| 🏢 **Co-Founder & Lead Engineer** | [Offsage](https://offsage.com) | 2023 – Present |
-| 💼 **Associate** | Tech Mahindra | 2025 |
-| 🧠 **ML Engineer Intern** | CodeAlpha | 2024 |
-| 🐍 **Python Developer Intern** | OctaNet | 2024 |
-| 🚀 **CEO & Co-Founder** | RacerNodes | 2022 – 2023 |
-
----
 
 ## Certifications
 
@@ -194,26 +183,44 @@ const sdad = {
 
 <div align="center">
 
-<a href="https://github.com/instax-dutta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=instax-dutta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+<!-- Row 1: Stats + Top Languages -->
+<table width="100%">
+  <tr>
+    <td width="55%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=instax-dutta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats — Sai Dutta Abhishek Dash"/>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=instax-dutta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages — instax-dutta"/>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/instax-dutta">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=instax-dutta&theme=tokyonight&hide_border=true" alt="GitHub Streak — instax-dutta"/>
-</a>
+<!-- Row 2: Streak — full width -->
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=instax-dutta&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak — instax-dutta"/>
 
-<a href="https://github.com/instax-dutta">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=instax-dutta&theme=tokyonight" alt="GitHub Profile Summary — Sai Dutta Abhishek Dash"/>
-</a>
+<!-- Row 3: Profile Summary Cards -->
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=instax-dutta&theme=tokyonight" alt="Repos per Language"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=instax-dutta&theme=tokyonight" alt="Most Commit Language"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=instax-dutta&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST)"/>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/instax-dutta">
-  <img src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies — instax-dutta"/>
-</a>
+<!-- Row 4: Profile Details — full width -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=instax-dutta&theme=tokyonight" alt="GitHub Profile Summary — Sai Dutta Abhishek Dash"/>
 
-<a href="https://github.com/instax-dutta">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=instax-dutta&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph%20—%20instax-dutta" alt="Contribution Graph"/>
-</a>
+<!-- Row 5: Trophies — full width -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="GitHub Trophies — instax-dutta"/>
+
+<!-- Row 6: Contribution Graph — full width -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=instax-dutta&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20instax-dutta&area=true" alt="Contribution Graph — instax-dutta"/>
 
 </div>
 
