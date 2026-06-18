@@ -71,7 +71,6 @@ const sdad = {
   recentlyShipped: [
     "Nada      — C++20/Qt6 HiFi music player (FLAC/WAV/MP3, parametric EQ, ReplayGain, crossfeed DSP)",
     "Auralyn   — Discord music bot with integrated Lavalink, 200+ servers",
-    "discactyl — Pterodactyl panel control via Discord slash commands",
     "Binify    — zero-knowledge encrypted pastebin (Next.js 15, Turso, Web Crypto API)",
     "Forensic-Recovery — PowerShell forensic evidence acquisition tool",
   ],
@@ -124,7 +123,6 @@ const sdad = {
 | Project | What it does |
 |---------|-------------|
 | [**Auralyn**](https://github.com/instax-dutta/Auralyn) | Discord music bot with integrated Lavalink v4. Pelican/Pterodactyl-ready, 200+ servers. |
-| [**discactyl**](https://github.com/instax-dutta/discactyl) | Control your entire Pterodactyl panel from Discord — slash commands, backups, node monitoring. |
 | [**VeronicaBot**](https://github.com/instax-dutta/VeronicaBot) | Privacy-first Discord bot for YouTube/Twitch live notifications. Self-hosted, zero telemetry. |
 
 ### 🎨 Design Systems
@@ -247,7 +245,7 @@ const sdad = {
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=instax-dutta&theme=tokyonight" alt="GitHub Profile Summary — Sai Dutta Abhishek Dash"/>
 
 <a href="https://github.com/instax-dutta">
-  <img src="https://github-profile-trophy-lovat-phi.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies — instax-dutta"/>
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=instax-dutta&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies — instax-dutta"/>
 </a>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=instax-dutta&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20instax-dutta&area=true" alt="Contribution Graph — instax-dutta"/>
